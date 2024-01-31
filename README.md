@@ -18,7 +18,7 @@ are discernible variations in job tasks, which persist within specific occupatio
 important that the occupational assignment of tasks determines value of tasks, implying
 that there exists a structural context of tasks.
 
-** Note:** Due to strict requirements imposed by TurkStat regarding the accessibility of original microdata, the data file in this repository does not include the original data.
+**Note:** Due to strict requirements imposed by TurkStat regarding the accessibility of original microdata, the data file in this repository does not include the original data.
 
 ## Contents:
 
