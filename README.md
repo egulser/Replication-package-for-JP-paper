@@ -1,4 +1,4 @@
-# Replication-package-for-JP-paper
+# Replication package for JP paper
 
 This repository contains Stata programs designed to replicate the figures and tables presented in the paper."
 Job polarization and routinization: Evidence for Turkey" coauthored by Evren Gulser and Ensar Yilmaz. The abstract of the paper is available below:
