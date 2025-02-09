@@ -28,7 +28,7 @@ fig4: Contains the set of programs for figure 4. Execute fig4_main.do to obtain 
 
 fig: Contains outputs created by the programs.
 
-do: Contains the program deriving task measures from O*NET data. (Adopted from the replication file of Acemoglu and Author (2011))
+do: Contains the program deriving task measures from O*NET data. (Adopted from the replication file of Acemoglu and Author (2011) available: https://economics.mit.edu/people/faculty/daron-acemoglu/data-archive)
 
 
 
